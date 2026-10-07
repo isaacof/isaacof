@@ -1,0 +1,8 @@
+BIO.txt
+COMO-EDITAR.md
+PREVIEW.png
+.env
+.env.*
+node_modules/
+*.log
+PROFILE-BEFORE.json

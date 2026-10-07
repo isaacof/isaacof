@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title description">
+  <title id="title">Isaac Silva</title>
+  <desc id="description">Learning programming. Exploring artificial intelligence, data and automation.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#07080c"/></linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="16" fill="url(#bg)"/>
+  <rect x="24" y="24" width="1152" height="272" rx="4" fill="none" stroke="#344052"/>
+  <path d="M880 24v272M924 24v272M968 24v272M1012 24v272M1056 24v272M1100 24v272M1144 24v272M880 72h296M880 116h296M880 160h296M880 204h296M880 248h296" fill="none" stroke="#344052" opacity=".28"/>
+  <path d="M902 231L949 184L990 209L1039 118L1076 146L1144 73" fill="none" stroke="#e0182d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#e0182d"><circle cx="902" cy="231" r="5"/><circle cx="949" cy="184" r="5"/><circle cx="990" cy="209" r="5"/><circle cx="1039" cy="118" r="5"/><circle cx="1076" cy="146" r="5"/><circle cx="1144" cy="73" r="5"/></g>
+  <path d="M64 70h28" stroke="#e0182d" stroke-width="4"/>
+  <text x="107" y="76" fill="#b8c2d1" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="3">LEARN / BUILD / DOCUMENT</text>
+  <text x="64" y="167" fill="#f2f0e9" font-family="Arial, Helvetica, sans-serif" font-size="69" font-weight="800" letter-spacing="-2">ISAAC SILVA</text>
+  <text x="67" y="211" fill="#b8c2d1" font-family="Arial, Helvetica, sans-serif" font-size="22">Beginning a programming journey.</text>
+  <text x="67" y="260" fill="#f2f0e9" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="2">EXPLORING AI / DATA / AUTOMATION</text>
+</svg>
