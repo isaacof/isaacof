@@ -2,7 +2,7 @@
 
 # Hi, I'm Isaac Silva
 
-I'm beginning my programming journey, with an interest in **artificial intelligence, data and automation**.
+I'm beginning my programming journey, with an interest in **artificial intelligence, data, automation and Cybersecurity**.
 
 My goal is to turn ideas into small, understandable projects and document what I learn along the way.
 
