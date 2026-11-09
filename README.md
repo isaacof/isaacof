@@ -48,7 +48,8 @@ An isolated cybersecurity lab with **Kali Linux + Metasploitable 2 + DVWA**:
 - Reconnaissance, SMB enumeration and credential attacks with **Medusa**.
 - Validated access to FTP, SMB and a web form — all in a host-only network.
 - **SOC triage automation** in Python: Markdown report, JSON for SIEM and a sanitized AI prompt.
-- Detection rules mapped to **MITRE ATT&CK T1110** and mitigations for each vector.
+- **Detection rules** in Sigma and Wazuh mapped to **MITRE ATT&CK T1110**, plus automated tests and CI.
+- Documentation in **Portuguese and English**, with mitigations for each vector.
 
 [![Repo](https://img.shields.io/badge/repository-dio--medusa--bruteforce--lab-0ea5e9?style=flat-square&logo=github)](https://github.com/isaacof/dio-medusa-bruteforce-lab)
 [![SOC report](https://img.shields.io/badge/report-SOC%20triage-22c55e?style=flat-square)](https://github.com/isaacof/dio-medusa-bruteforce-lab/blob/main/reports/soc-triage.md)
