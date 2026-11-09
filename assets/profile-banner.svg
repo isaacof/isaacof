@@ -1,17 +1,50 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title description">
-  <title id="title">Isaac Silva</title>
-  <desc id="description">Learning programming. Exploring artificial intelligence, data and automation.</desc>
+  <title id="title">Isaac Silva — Cybersecurity, SOC and AI automation</title>
+  <desc id="description">Isaac Silva. Cybersecurity learner focused on SOC, detection engineering and AI-assisted automation.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#07080c"/></linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#06070b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#22c55e"/>
+    </linearGradient>
   </defs>
+
   <rect width="1200" height="320" rx="16" fill="url(#bg)"/>
-  <rect x="24" y="24" width="1152" height="272" rx="4" fill="none" stroke="#344052"/>
-  <path d="M880 24v272M924 24v272M968 24v272M1012 24v272M1056 24v272M1100 24v272M1144 24v272M880 72h296M880 116h296M880 160h296M880 204h296M880 248h296" fill="none" stroke="#344052" opacity=".28"/>
-  <path d="M902 231L949 184L990 209L1039 118L1076 146L1144 73" fill="none" stroke="#e0182d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <g fill="#e0182d"><circle cx="902" cy="231" r="5"/><circle cx="949" cy="184" r="5"/><circle cx="990" cy="209" r="5"/><circle cx="1039" cy="118" r="5"/><circle cx="1076" cy="146" r="5"/><circle cx="1144" cy="73" r="5"/></g>
-  <path d="M64 70h28" stroke="#e0182d" stroke-width="4"/>
-  <text x="107" y="76" fill="#b8c2d1" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="3">LEARN / BUILD / DOCUMENT</text>
-  <text x="64" y="167" fill="#f2f0e9" font-family="Arial, Helvetica, sans-serif" font-size="69" font-weight="800" letter-spacing="-2">ISAAC SILVA</text>
-  <text x="67" y="211" fill="#b8c2d1" font-family="Arial, Helvetica, sans-serif" font-size="22">Beginning a programming journey.</text>
-  <text x="67" y="260" fill="#f2f0e9" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="2">EXPLORING AI / DATA / AUTOMATION</text>
+  <rect x="24" y="24" width="1152" height="272" rx="6" fill="none" stroke="#263244"/>
+
+  <!-- grade decorativa -->
+  <g stroke="#1f2a3a" opacity=".55">
+    <path d="M760 24v272M800 24v272M840 24v272M880 24v272M920 24v272M960 24v272M1000 24v272M1040 24v272M1080 24v272M1120 24v272M1160 24v272"/>
+    <path d="M760 64h416M760 104h416M760 144h416M760 184h416M760 224h416M760 264h416"/>
+  </g>
+
+  <!-- terminal -->
+  <g>
+    <rect x="790" y="52" width="350" height="216" rx="10" fill="#0d1117" stroke="#30363d"/>
+    <rect x="790" y="52" width="350" height="30" rx="10" fill="#161b22"/>
+    <rect x="790" y="72" width="350" height="10" fill="#161b22"/>
+    <circle cx="812" cy="67" r="4" fill="#ff5f56"/>
+    <circle cx="826" cy="67" r="4" fill="#ffbd2e"/>
+    <circle cx="840" cy="67" r="4" fill="#27c93f"/>
+    <text x="806" y="110" fill="#7ee787" font-family="Consolas, Menlo, monospace" font-size="13">$ nmap -sV 192.168.56.102</text>
+    <text x="806" y="132" fill="#c9d1d9" font-family="Consolas, Menlo, monospace" font-size="13">21/tcp  open  ftp</text>
+    <text x="806" y="152" fill="#c9d1d9" font-family="Consolas, Menlo, monospace" font-size="13">445/tcp open  smb</text>
+    <text x="806" y="178" fill="#f85149" font-family="Consolas, Menlo, monospace" font-size="13">[ALERT] T1110 brute force</text>
+    <text x="806" y="200" fill="#79c0ff" font-family="Consolas, Menlo, monospace" font-size="13">report: 4 findings</text>
+    <text x="806" y="222" fill="#d2a8ff" font-family="Consolas, Menlo, monospace" font-size="13">mitre: T1110.001 / T1110.003</text>
+    <text x="806" y="248" fill="#8b949e" font-family="Consolas, Menlo, monospace" font-size="13">status: contained (lab)</text>
+  </g>
+
+  <!-- texto -->
+  <rect x="64" y="64" width="30" height="4" rx="2" fill="url(#accent)"/>
+  <text x="106" y="70" fill="#9fb0c6" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="3.4">CYBERSECURITY / SOC / AI AUTOMATION</text>
+
+  <text x="64" y="156" fill="#f4f4f0" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="800" letter-spacing="-2">ISAAC SILVA</text>
+  <text x="66" y="196" fill="#b8c2d1" font-family="Arial, Helvetica, sans-serif" font-size="20">Hands-on labs, detection engineering and automation.</text>
+
+  <text x="66" y="250" fill="#e5e7eb" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2.4">LEARN  →  BUILD  →  TEST  →  DOCUMENT</text>
+  <text x="66" y="276" fill="#6b7a90" font-family="Arial, Helvetica, sans-serif" font-size="13">github.com/isaacof</text>
 </svg>
